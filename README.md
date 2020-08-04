@@ -2,10 +2,10 @@
 
 ## I'm a Student In Microverse
 - 🔭 I’m currently working on finnishing the Micrverse course !
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning full stack web developer 🤣
 - 👯 I’m looking to collaborate with other person to improve my knowldge
-- 🥅 2020 Goals: commit more to my github profile
-- ⚡ Fun fact: I love to travel and see different colturs
+- 🥅 2020 Goals: commit more to my Github Profile
+- ⚡ Fun fact: I love to travel and see different  culturs
 
 ### Connect with me:
 
