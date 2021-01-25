@@ -28,6 +28,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="ruby_programming" width="26p" src="https://img.icons8.com/office/16/000000/ruby-programming-language.png"/>
 <img align="left" alt="Sass" width="26px" style="padding-left: 10px; background: transparent;" src="https://th.bing.com/th/id/OIP.ubux1yLT726_fVc3A7WSXgHaHa?w=178&h=180&c=7&o=5&pid=1.7" />
 
 <br />
@@ -35,6 +36,9 @@
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dasileker&show_icons=true&hide_border=true" />
+
+
+
 
 
 [twitter]: https://twitter.com/dasileker
