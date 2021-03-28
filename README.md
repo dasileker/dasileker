@@ -36,7 +36,18 @@ body {
 <br />
 
 ### Languages and Tools:
-
+<img src="https://img.icons8.com/ios-filled/20/000000/visual-studio-logo.png"/>
+<img src="https://img.icons8.com/material/20/000000/merge-git.png"/>
+<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img src="https://img.icons8.com/windows/25/000000/bootstrap.png"/>
+<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+<img src="https://img.icons8.com/ios-filled/20/000000/ruby-programming-language.png"/>
+<img src="https://img.icons8.com/ios-filled/20/000000/database-export.png"/>
+<img src="https://img.icons8.com/windows/20/000000/ruby-on-rails.png"/>
+<img src="https://img.icons8.com/ios-filled/20/000000/javascript-logo.png"/>
+<img src="https://img.icons8.com/ios-glyphs/20/000000/react.png"/>
+<img src="https://img.icons8.com/ios-filled/20/000000/redux.png"/>
 
 <br />
 <br />
