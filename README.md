@@ -1,45 +1,3 @@
-<style>
-body {
-  background: #00B4DB;
-  background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);
-  background: linear-gradient(to right, #0083B0, #00B4DB);
-}
-
-body, title{
-  color:black;
-  font-weight: bolder;
-}
-
-img {
-  margin-left: 40px;
-  background: ;
-}
-
-h2 {
-  color:black;
-}
-
-li {
-  color: black;
-  font-style: italic;
-}
-
-header {
-  color:black;
-}
-
-p { 
-  color: black;
-}
-
-a {
-  color:black;
-}
-
-a:hover {
-  color: white;
-}
-</style>
 ### Hi there, I'm Zerradi 👋
 
 ## Current Status
@@ -60,27 +18,27 @@ a:hover {
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="margin-left:10px;" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-left:10px;"/>
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="margin-left:10px;"/>
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="margin-left:10px;"/>
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" style="margin-left:10px;"/>
 <br />
 <br />
 
 ### Languages and Tools:
 <img src="https://img.icons8.com/ios-filled/20/000000/visual-studio-logo.png"/>
-<img src="https://img.icons8.com/material/20/000000/merge-git.png"/>
-<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img src="https://img.icons8.com/windows/25/000000/bootstrap.png"/>
-<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-<img src="https://img.icons8.com/ios-filled/20/000000/ruby-programming-language.png"/>
-<img src="https://img.icons8.com/ios-filled/20/000000/database-export.png"/>
-<img src="https://img.icons8.com/windows/20/000000/ruby-on-rails.png"/>
-<img src="https://img.icons8.com/ios-filled/20/000000/javascript-logo.png"/>
-<img src="https://img.icons8.com/ios-glyphs/20/000000/react.png"/>
-<img src="https://img.icons8.com/ios-filled/20/000000/redux.png"/>
+<img src="https://img.icons8.com/material/20/000000/merge-git.png" style="margin-left:10px;"/>
+<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" style="margin-left:10px;"/>
+<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" style="margin-left:10px;"/>
+<img src="https://img.icons8.com/windows/25/000000/bootstrap.png" style="margin-left:10px;"/>
+<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" style="margin-left:10px;"/>
+<img src="https://img.icons8.com/ios-filled/20/000000/ruby-programming-language.png" style="margin-left:10px;"/>
+<img src="https://img.icons8.com/ios-filled/20/000000/database-export.png" style="margin-left:10px;"/>
+<img src="https://img.icons8.com/windows/20/000000/ruby-on-rails.png" style="margin-left:10px;"/>
+<img src="https://img.icons8.com/ios-filled/20/000000/javascript-logo.png" style="margin-left:10px;"/>
+<img src="https://img.icons8.com/ios-glyphs/20/000000/react.png" style="margin-left:10px;"/>
+<img src="https://img.icons8.com/ios-filled/20/000000/redux.png" style="margin-left:10px;"/>
 
 <br />
 <br />
@@ -105,6 +63,3 @@ a:hover {
 --
 <img align="left" alt="codeSTACKr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" /> -  [Angellist!](https://angel.co/u/zerradi)
 <br />
-
-
-
