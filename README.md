@@ -3,7 +3,33 @@ body {
   background: #00B4DB;
   background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);
   background: linear-gradient(to right, #0083B0, #00B4DB);
+}
 
+body, title{
+  color:black;
+  font-weight: bolder;
+}
+
+img {
+  margin-left: 40px;
+  background: ;
+}
+
+h2 {
+  color:black;
+}
+
+li {
+  color: black;
+  font-style: italic;
+}
+
+header {
+  color:black;
+}
+
+p { 
+  color: black;
 }
 
 </style>
