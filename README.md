@@ -41,13 +41,13 @@
 <img align="left" src="https://img.icons8.com/ios-filled/20/000000/redux.png" style="margin-left:10px;"/>
 
 <br/>
---
+
 ## Readme Status. 
 
 <img  alt="dasileker Github Stats" src="https://github-readme-stats.vercel.app/api?username=dasileker&count_private=true"/>
 
 <br />
---
+
 ## Contacte Me via
 
 <img align="left"  alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />-
