@@ -27,18 +27,18 @@
 <br />
 
 ### Languages and Tools:
-<img src="https://img.icons8.com/ios-filled/20/000000/visual-studio-logo.png"/>
-<img src="https://img.icons8.com/material/20/000000/merge-git.png" style="margin-left:10px;"/>
+<img align="left" src="https://img.icons8.com/ios-filled/20/000000/visual-studio-logo.png"/>
+<img src="https://img.icons8.com/material/20/000000/merge-git.png" align="left" style="margin-left:10px;"/>
 <img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" style="margin-left:10px;"/>
-<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" style="margin-left:10px;"/>
-<img src="https://img.icons8.com/windows/25/000000/bootstrap.png" style="margin-left:10px;"/>
-<img  alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" style="margin-left:10px;"/>
-<img src="https://img.icons8.com/ios-filled/20/000000/ruby-programming-language.png" style="margin-left:10px;"/>
-<img src="https://img.icons8.com/ios-filled/20/000000/database-export.png" style="margin-left:10px;"/>
-<img src="https://img.icons8.com/windows/20/000000/ruby-on-rails.png" style="margin-left:10px;"/>
-<img src="https://img.icons8.com/ios-filled/20/000000/javascript-logo.png" style="margin-left:10px;"/>
-<img src="https://img.icons8.com/ios-glyphs/20/000000/react.png" style="margin-left:10px;"/>
-<img src="https://img.icons8.com/ios-filled/20/000000/redux.png" style="margin-left:10px;"/>
+<img  align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" style="margin-left:10px;"/>
+<img align="left" src="https://img.icons8.com/windows/25/000000/bootstrap.png" style="margin-left:10px;"/>
+<img  align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" style="margin-left:10px;"/>
+<img align="left" src="https://img.icons8.com/ios-filled/20/000000/ruby-programming-language.png" style="margin-left:10px;"/>
+<img align="left" src="https://img.icons8.com/ios-filled/20/000000/database-export.png" style="margin-left:10px;"/>
+<img align="left" src="https://img.icons8.com/windows/20/000000/ruby-on-rails.png" style="margin-left:10px;"/>
+<img align="left" src="https://img.icons8.com/ios-filled/20/000000/javascript-logo.png" style="margin-left:10px;"/>
+<img align="left" src="https://img.icons8.com/ios-glyphs/20/000000/react.png" style="margin-left:10px;"/>
+<img align="left" src="https://img.icons8.com/ios-filled/20/000000/redux.png" style="margin-left:10px;"/>
 
 ## Readme Status. 
 
