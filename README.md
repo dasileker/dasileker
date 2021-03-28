@@ -40,6 +40,8 @@
 <img align="left" src="https://img.icons8.com/ios-glyphs/20/000000/react.png" style="margin-left:10px;"/>
 <img align="left" src="https://img.icons8.com/ios-filled/20/000000/redux.png" style="margin-left:10px;"/>
 
+<br/>
+--
 ## Readme Status. 
 
 <img  alt="dasileker Github Stats" src="https://github-readme-stats.vercel.app/api?username=dasileker&count_private=true"/>
