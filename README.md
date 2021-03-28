@@ -32,6 +32,13 @@ p {
   color: black;
 }
 
+a {
+  color:black;
+}
+
+a:hover {
+  color: white;
+}
 </style>
 ### Hi there, I'm Zerradi 👋
 
@@ -79,7 +86,25 @@ p {
 <br />
 ---
 
+
+## Readme Status. 
+
 <img  alt="dasileker Github Stats" src="https://github-readme-stats.vercel.app/api?username=dasileker&count_private=true"/>
+
+<br />
+-----
+## Contacte Me via
+
+<img align="left"  alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />-
+[Linkedin!](https://www.linkedin.com/in/amine-zerradi/)
+<br />
+--
+<img align="left" alt="codeSTACKr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> - 
+[Github!](https://github.com/dasileker/) 
+<br />
+--
+<img align="left" alt="codeSTACKr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" /> -  [Angellist!](https://angel.co/u/zerradi)
+<br />
 
 
 
