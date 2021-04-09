@@ -4,11 +4,11 @@
  
 - In React & Redux.
 
-## I'm a Student In Microverse
-- 🔭 I’m currently working on finnishing the Micrverse course !
+## I'm a Full-stack-dev
+- 🔭 I’m currently working on finnishing the Micrverse course.
 - 🌱 I’m currently learning full stack web developer 🤣
 - 👯 I’m looking to collaborate with other person to improve my knowldge
-- 🥅 2020 Goals: commit more to my Github Profile
+- 🥅 2021 Goals: commit more to my Github Profile
 - ⚡ Fun fact: I love to travel and see different  culturs
 
 ## I'm also a FULL Stack web developer graduated 
