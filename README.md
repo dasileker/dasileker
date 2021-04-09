@@ -1,8 +1,8 @@
 ### Hi there, I'm Zerradi 👋
 
 ## Current Status
-
-- In Javascript
+ 
+- In React & Redux.
 
 ## I'm a Student In Microverse
 - 🔭 I’m currently working on finnishing the Micrverse course !
@@ -58,5 +58,5 @@
 [Github!](https://github.com/dasileker/) 
 <br />
 --
-<img align="left" alt="codeSTACKr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" /> -  [Angellist!](https://angel.co/u/zerradi)
-<br />
+<img align="left" alt="codeSTACKr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" /> -
+[Angellist!](https://angel.co/u/zerradi/)
