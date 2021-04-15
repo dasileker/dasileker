@@ -53,7 +53,7 @@
 
 ## Contact Me Via
 
- - [Twitter](https://wwww.twitter.com/dasileker)
+ - [Twitter](https://twitter.com/dasileker)
  - [LinkedIn](https://www.linkedin.com/in/amine-zerradi/)
  - [Angellist](https://angel.co/u/zerradi)
 
