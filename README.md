@@ -6,14 +6,14 @@
 
 ## I'm a Full-stack-dev
 - 💻 I’m currently working on finishing the Micrverse course.
-- 🌱 I’m currently learning full-stack web developer 🤣
-- 👯 I’m looking to collaborate with other people to improve my knowledge
-- 🥅 2021 Goals: commit more to my Github Profile
-- ⚡ Fun fact: I love to travel and see different  cultures
+- 🌱 I’m currently learning full-stack web developer 🤣.
+- 👯 I’m looking to collaborate with other people to improve my knowledge.
+- 🥅 2021 Goals: commit more to my Github Profile.
+- ⚡ Fun fact: I love to travel and see different  cultures.
 
 ## I'm also a FULL Stack web developer graduated 
 
-<img alt="udacity"  src="assets/udacity1.ico"/> <span style="marging-bottom: 15px;">One milion arab coder initiative from the UEA<span>
+- <img alt="udacity"  src="assets/udacity1.ico"/> <span style="marging-bottom: 15px;">One milion arab coder initiative from the UEA<span>.
 
 ### Connect with me:
 
@@ -53,7 +53,7 @@
 
 ## Contact Me Via
 
- - [Twitter](https://twitter.com/dasileker)
- - [LinkedIn](https://www.linkedin.com/in/amine-zerradi/)
- - [Angellist](https://angel.co/u/zerradi)
+ - [Twitter](https://twitter.com/dasileker).
+ - [LinkedIn](https://www.linkedin.com/in/amine-zerradi/).
+ - [Angellist](https://angel.co/u/zerradi).
 
