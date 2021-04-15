@@ -13,7 +13,7 @@
 
 ## I'm also a FULL Stack web developer graduated 
 
-<img alt="udacity"  src="assets/udacity.png"  style="width: 23px"/> <span style="marging-bottom: 15px;"> One milion arab coder initiative from the UEA<span>
+<img alt="udacity"  src="assets/udacity1.ico"/> <span style="marging-bottom: 15px;"> One milion arab coder initiative from the UEA<span>
 
 ### Connect with me:
 
@@ -33,7 +33,7 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-<img src="assets/rails.png" style="width: 50px"/>
+<img src="assets/rails2.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/dusk/48/000000/webpack.png"/>
 <img src="https://img.icons8.com/nolan/48/react-native.png"/>
