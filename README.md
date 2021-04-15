@@ -17,10 +17,10 @@
 
 ### Connect with me:
 
-<img src="https://img.icons8.com/fluent/48/000000/domain.png" aligne="left"/>
+<div><img src="https://img.icons8.com/fluent/48/000000/domain.png" aligne="left" style=""/>
 <img src="https://img.icons8.com/fluent/48/000000/twitter.png" aligne="left"/>
 <img src="https://img.icons8.com/nolan/48/linkedin.png" aligne="left"/>
-<img src="https://img.icons8.com/nolan/48/angelist.png" aligne="left"/>
+<img src="https://img.icons8.com/nolan/48/angelist.png" aligne="left"/></div>
 
 <br />
 <br />
