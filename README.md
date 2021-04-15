@@ -17,10 +17,11 @@
 
 ### Connect with me:
 
-<img src="assets/website.png" style="float: left;" />
-<img src="assets/twitter.png" style="float: left;"/>
-<img src="assets/linkedIn.png" style="float: left;"/>
-<img src="assets/angellist.png" />
+<img src="https://img.icons8.com/fluent/48/000000/domain.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+<img src="https://img.icons8.com/nolan/48/linkedin.png"/>
+<img src="https://img.icons8.com/nolan/48/angelist.png"/>
+
 <br />
 <br />
 
