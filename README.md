@@ -17,10 +17,10 @@
 
 ### Connect with me:
 
-<a herf="https://www.twitter.com/dasileker"><img src="https://img.icons8.com/fluent/50/000000/earth-planet.png"></img></a>
-<img src="https://img.icons8.com/nolan/50/twitter.png"/>
-<img src="https://img.icons8.com/nolan/50/linkedin.png"/>
-<img src="https://img.icons8.com/nolan/50/angelist.png"/>
+<img src="assets/website.png" herf="#" />
+<img src="assets/twitter.png" herf="https://www.twitter.com/dasileker" />
+<img src="assets/linkedIn.png" herf="" />
+<img src="assets/angellist.png" herf="" />
 <br />
 <br />
 
