@@ -18,8 +18,8 @@
 ### Connect with me:
 
 <img src="assets/website.png" herf="#" />
-<img src="assets/twitter.png" herf="https://www.twitter.com/dasileker" />
-<img src="assets/linkedIn.png" herf="" />
+<img src="assets/twitter.png"/>
+<a herf="https://www.linkedin.com/in/amine-zerradi/" ><img src="assets/linkedIn.png"/></a>
 <img src="assets/angellist.png" herf="" />
 <br />
 <br />
