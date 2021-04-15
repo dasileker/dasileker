@@ -17,10 +17,10 @@
 
 ### Connect with me:
 
-<img src="assets/website.png" herf="#" />
-<img src="assets/twitter.png"/>
-<a herf="https://www.linkedin.com/in/amine-zerradi/" ><img src="assets/linkedIn.png"/></a>
-<img src="assets/angellist.png" herf="" />
+<img src="assets/website.png" style="float: left;" />
+<img src="assets/twitter.png" style="float: left;"/>
+<img src="assets/linkedIn.png" style="float: left;"/>
+<img src="assets/angellist.png" />
 <br />
 <br />
 
