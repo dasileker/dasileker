@@ -46,7 +46,7 @@
 
 ## Readme Status. 
 
-<img  alt="dasileker Github Stats" src="https://github-readme-stats.vercel.app/api?username=dasileker&include_all_commits=true&show_icons&show_owner&theme=radical)
+<img  alt="dasileker Github Stats" src="https://github-readme-stats.vercel.app/api?username=dasileker&include_all_commits=true&show_owner&theme=radical)
 "/>
 
 <br />
