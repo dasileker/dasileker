@@ -2,7 +2,7 @@
 
 ## Current Status
  
-- In React & Redux.
+- Full-Stack-Dev
 
 ## I'm a Full-stack-dev
 - 💻 I’m currently working on finishing the Micrverse course.
@@ -49,6 +49,9 @@
 <img  alt="dasileker Github Stats" src="https://github-readme-stats.vercel.app/api?username=dasileker&count_private=true"/>
 
 <br />
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dasileker&langs_count=5&theme=tokyonight)]()
 
 
 ## Contact Me Via
