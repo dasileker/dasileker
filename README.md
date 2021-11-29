@@ -13,14 +13,14 @@
 
 ## I'm also a FULL Stack web developer graduated 
 
-- <img alt="udacity"  src="assets/udacity1.ico"/> <span style="marging-bottom: 15px;">One milion arab coder initiative from the UEA<span>.
+<img alt="udacity"  src="assets/udacity1.ico"/> <span style="marging-bottom: 15px;">One milion arab coder initiative from the UEA<span>.
 
 ### Connect with me:
 
-<div><img src="https://img.icons8.com/fluent/48/000000/domain.png" aligne="left"/>
-<img src="https://img.icons8.com/fluent/48/000000/twitter.png" aligne="left"  style="margin-left:10px"/>
-<img src="https://img.icons8.com/nolan/48/linkedin.png" aligne="left"  style="margin-left:10px"/>
-<img src="https://img.icons8.com/nolan/48/angelist.png" aligne="left"  style="margin-left:10px"/></div>
+<div><a href="https://zerradi.web.app/"><img src="https://img.icons8.com/fluent/48/000000/domain.png" aligne="left"><img/></a>
+<a href="https://twitter.com/dasileker"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" aligne="left"  style="margin-left:10px"><img/></a>
+<a href="https://www.instagram.com/zerradiamine/"><img src="https://img.icons8.com/nolan/48/linkedin.png" aligne="left"  style="margin-left:10px"><img/></a>
+<a href="https://angel.co/u/zerradi"><img src="https://img.icons8.com/nolan/48/angelist.png" aligne="left"  style="margin-left:10px"><img/></a></div>
 
 <br />
 <br />
