@@ -20,7 +20,7 @@
 <div><a href="https://zerradi.web.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/domain.png" aligne="left"><img/></a>
 <a href="https://twitter.com/dasileker" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" aligne="left"  style="margin-left:10px"><img/></a>
 <a href="https://www.instagram.com/zerradiamine/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/48/linkedin.png" aligne="left"  style="margin-left:10px"><img/></a>
-<a href="https://angel.co/u/zerradi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/48/angelist.png" aligne="left"  style="margin-left:10px"><img/></a></div>
+<a href="https://angel.co/u/zerradi-amine" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/48/angelist.png" aligne="left"  style="margin-left:10px"><img/></a></div>
 
 <br />
 <br />
@@ -58,5 +58,5 @@
 
  - [Twitter](https://twitter.com/dasileker).
  - [LinkedIn](https://www.linkedin.com/in/amine-zerradi/).
- - [Angellist](https://angel.co/u/zerradi).
+ - [Angellist](https://angel.co/u/zerradi-amine).
 
