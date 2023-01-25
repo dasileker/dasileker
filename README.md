@@ -25,6 +25,7 @@
 <br />
 <br />
 
+
 ### Languages and Tools:
 
 <div>
@@ -34,6 +35,7 @@
 <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 <img src="assets/rails2.png"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/dusk/48/000000/webpack.png"/>
 <img src="https://img.icons8.com/nolan/48/react-native.png"/>
