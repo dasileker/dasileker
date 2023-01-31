@@ -1,4 +1,4 @@
-### Hi there, I'm Zerradi 👋
+## Hi there, I'm Zerradi 👋
 
 ## Current Status
  
@@ -8,7 +8,7 @@
 - 💻 I’m currently Learning MetaProgramming & Scrum & Django.
 - 🌱 I’m currently learning full-stack web developer 🤣.
 - 👯 I’m looking to collaborate with other people to improve my knowledge.
-- 🥅 202é Goals: commit more to my Github Profile and build more projects.
+- 🥅 2023 Goals: commit more to my Github Profile and build more projects.
 - ⚡ Fun fact: I love to travel and see different  cultures.
 
 ## I'm also a FULL Stack web developer graduated 
@@ -20,8 +20,8 @@
 <div><a href="https://zerradi.web.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/domain.png" aligne="left"><img/></a>
 <a href="https://twitter.com/dasileker" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" aligne="left"  style="margin-left:10px"><img/></a>
 <a href="https://www.instagram.com/zerradiamine/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/48/linkedin.png" aligne="left"  style="margin-left:10px"><img/></a>
-<a href="https://angel.co/u/zerradi-amine" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/48/angelist.png" aligne="left"  style="margin-left:10px"><img/></a></div>
-
+<a href="https://angel.co/u/zerradi-amine" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/48/angelist.png" aligne="left"  style="margin-left:10px"><img/></a>
+</div>
 <br />
 <br />
 
@@ -41,9 +41,11 @@
 <img src="https://img.icons8.com/dusk/48/000000/webpack.png"/>
 <img src="https://img.icons8.com/nolan/48/react-native.png"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-</div>
 <img src="./assets/flutter.png"/>
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
 </div>
+
+
 
 
 
