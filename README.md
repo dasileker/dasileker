@@ -5,7 +5,7 @@
 - Full-Stack-Dev
 
 ## I'm a Full-stack-dev
-- 💻 I’m currently Learning MetaProgramming & Scrum.
+- 💻 I’m currently Learning MetaProgramming & Scrum & Django.
 - 🌱 I’m currently learning full-stack web developer 🤣.
 - 👯 I’m looking to collaborate with other people to improve my knowledge.
 - 🥅 202é Goals: commit more to my Github Profile and build more projects.
