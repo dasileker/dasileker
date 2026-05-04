@@ -87,8 +87,20 @@
 
 ## 🎓 Education
 
-<img alt="udacity" src="assets/udacity1.ico"/>  
-One Million Arab Coders Initiative (UAE) – Full-Stack Development
+<table>
+<tr>
+<td align="center" valign="middle"><img src="assets/udacity1.ico" width="48" height="48" alt="Udacity"/></td>
+<td valign="middle"><strong>One Million Arab Coders Initiative (UAE)</strong> – Full-Stack Development</td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://www.microverse.org/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/22550229?s=64&amp;v=4" width="48" height="48" alt="Microverse"/></a></td>
+<td valign="middle"><strong>Microverse</strong> – Full Stack Web Development · <a href="https://www.microverse.org/" target="_blank" rel="noopener noreferrer">microverse.org</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="https://www.netacad.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco"/></a></td>
+<td valign="middle"><strong>Cisco Networking Academy</strong> – Introduction to Ethical Hacking (certificate) · <a href="https://www.netacad.com/" target="_blank" rel="noopener noreferrer">netacad.com</a></td>
+</tr>
+</table>
 
 ---
 
